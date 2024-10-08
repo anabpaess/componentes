@@ -1,7 +1,8 @@
 Este repositório contém componentes React que facilitam o desenvolvimento de projetos gamificados ao fornecer funcionalidades para o acompanhamento de metas diárias, exibição de barras de progresso e mensagens padronizadas de feedback.
 
 DailyQuest.js: Componente voltado para o acompanhamento de metas diárias. Utilizando os atributos currentPoints e maxPoints, é possível definir a quantidade atual de pontos e a meta desejada, respectivamente. A barra de progresso é automaticamente preenchida com base na porcentagem de conclusão, oferecendo uma visualização clara do progresso.
-![image](https://github.com/user-attachments/assets/17fccf4a-6dc2-4ee8-a0f9-79359ca5b431)
+
+![image](https://github.com/user-attachments/assets/1b0b7760-8139-4ba0-af6a-3cd3d08755c2)
 
 ProgressBar.js: Componente de barra de progresso versátil, ideal para representar o avanço em atividades. A cada atualização do atributo progress, a barra se ajusta automaticamente para refletir a proporção informada, permitindo um controle visual preciso do progresso.
 
